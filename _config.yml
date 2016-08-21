@@ -1,0 +1,14 @@
+layout_spectrum: 0.20361213921569288
+typography_spectrum: 0.9700525442603976
+color:
+  brandStrength: 0.0033608421217650175
+  lightness: 0.7924009438138455
+  saturation: 0.7730727940797806
+  rhythmicContrast: 0.6933410812634975
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: Campaign Migration
